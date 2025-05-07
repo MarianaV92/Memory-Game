@@ -1,0 +1,63 @@
+{
+  "extraterrestre": [
+    "medias/extraterrestre/1.png",
+    "medias/extraterrestre/2.png",
+    "medias/extraterrestre/3.png",
+    "medias/extraterrestre/4.png",
+    "medias/extraterrestre/5.png",
+    "medias/extraterrestre/6.png"
+  ],
+  "animaux": [
+    "medias/animaux/1.webp",
+    "medias/animaux/2.webp",
+    "medias/animaux/3.webp",
+    "medias/animaux/4.webp",
+    "medias/animaux/5.webp",
+    "medias/animaux/6.webp",
+    "medias/animaux/7.webp",
+    "medias/animaux/8.webp",
+    "medias/animaux/9.webp",
+    "medias/animaux/10.webp",
+    "medias/animaux/11.webp",
+    "medias/animaux/12.webp",
+    "medias/animaux/13.webp",
+    "medias/animaux/14.webp",
+    "medias/animaux/15.webp",
+    "medias/animaux/16.webp",
+    "medias/animaux/17.webp",
+    "medias/animaux/18.webp",
+    "medias/animaux/19.webp",
+    "medias/animaux/20.webp",
+    "medias/animaux/21.webp",
+    "medias/animaux/22.webp",
+    "medias/animaux/23.webp",
+    "medias/animaux/24.webp",
+    "medias/animaux/25.webp",
+    "medias/animaux/26.webp",
+    "medias/animaux/27.webp",
+    "medias/animaux/28.webp"
+  ],
+  "animauxAnimes": [
+    "medias/animauxAnimes/1.webp",
+    "medias/animauxAnimes/2.webp",
+    "medias/animauxAnimes/3.webp",
+    "medias/animauxAnimes/4.webp",
+    "medias/animauxAnimes/5.webp",
+    "medias/animauxAnimes/6.webp",
+    "medias/animauxAnimes/7.webp",
+    "medias/animauxAnimes/8.webp"
+  ],
+  "animauxDomestique": [
+    "medias/animauxDomestiques/1.jpg",
+    "medias/animauxDomestiques/2.jpg",
+    "medias/animauxDomestiques/3.jpg",
+    "medias/animauxDomestiques/4.jpg",
+    "medias/animauxDomestiques/5.jpg",
+    "medias/animauxDomestiques/6.jpg",
+    "medias/animauxDomestiques/7.jpg",
+    "medias/animauxDomestiques/8.jpg",
+    "medias/animauxDomestiques/9.jpg",
+    "medias/animauxDomestiques/10.jpg",
+    "medias/animauxDomestiques/3.jpg"
+  ]
+}
